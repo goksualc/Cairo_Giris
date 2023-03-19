@@ -4,7 +4,7 @@
 ![My Image](cairo_logo.png)
 
 
-## Enviroment Kurulumu
+## Environment Kurulumu
 
 Kurulumlarda yer alan komutları Linux veya Mac terminalinize yazmanız gerekiyor. Windows kullanıcıları  [*Ubuntu for Windows*](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#3-download-ubuntu)'u indirerek komutları Ubuntu terminaline yazabilir. 
 
