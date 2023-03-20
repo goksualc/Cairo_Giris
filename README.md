@@ -15,4 +15,4 @@
 |[1- Kurulum ](1_Installation.md): *Bu bölümde gerekli kurulumları yapıyoruz.*|
 |[2- İlk Program ](2_Program.md) : *Bu bölümde ilk programımızı yazıp çalıştırıyoruz.*|
 |[3- Hesap Açma ](3_Account.md) : *Bu bölümde Starknet üzerinde cüzdan açıyoruz.*|
-|[4- İlk Kontratı Yazma ] (4_StarknetContract.md) : *Bu bölümde ilk kontratımızı yazıyoruz.*|
+|[4- İlk Kontratı Yazma ](4_StarknetContract.md) : *Bu bölümde ilk kontratımızı yazıyoruz.*|
