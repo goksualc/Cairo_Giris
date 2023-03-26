@@ -9,6 +9,13 @@
 
 > StarkNet, hem altyapısı hem de StarkNet sözleşmelerini yazmak için **Cairo** programlama dilini kullanır.
 
+## Bu Github Reposunu Klonlayalım
+
+````bash
+git clone https://github.com/goksualc/Cairo_Giris 
+cd Cairo_Giris
+`````
+
 
 | Cairo0 Bölümler|
 | :------------ |
