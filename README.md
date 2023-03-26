@@ -14,10 +14,11 @@
 ````bash
 git clone https://github.com/goksualc/Cairo_Giris 
 cd Cairo_Giris
+
 `````
+## Cairo Bölümler
 
-
-| Cairo0 Bölümler|
+| Cairo0 |
 | :------------ |
 |[1- Kurulum ](/Cairo0/1_Installation.md): *Bu bölümde gerekli kurulumları yapıyoruz.*|
 |[2- İlk Program ](/Cairo0/2_Program.md) : *Bu bölümde ilk programımızı yazıp çalıştırıyoruz.*|
@@ -25,7 +26,7 @@ cd Cairo_Giris
 |[4- İlk Kontratı Yazma ](/Cairo0/4_StarknetContract.md) : *Bu bölümde ilk kontratımızı yazıyoruz.*|
 
 
-| Cairo1.0  Bölümler|
+| Cairo1.0  |
 | :------------ |
 |[1- Kurulum ](/Cairo1.0/1_Installation.md): *Bu bölümde gerekli kurulumları yapıyoruz.*|
 |[2- İlk Program ](/Cairo1.0/2_Program.md) : *Bu bölümde ilk programımızı yazıp çalıştırıyoruz.*|
