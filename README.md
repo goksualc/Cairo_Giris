@@ -11,6 +11,7 @@
 
 ## Bu Github Reposunu Klonlayalım
 
+
 ````bash
 git clone https://github.com/goksualc/Cairo_Giris 
 cd Cairo_Giris
@@ -29,4 +30,4 @@ cd Cairo_Giris
 | Cairo1.0  |
 | :------------ |
 |[1- Kurulum ](/Cairo1.0/1_Installation.md): *Bu bölümde gerekli kurulumları yapıyoruz.*|
-|[2- İlk Program ](/Cairo1.0/2_Program.md) : *Bu bölümde ilk programımızı yazıp çalıştırıyoruz.*|
+
